@@ -2,7 +2,7 @@
 
 /**
 *free_listint2 - frees a linked list
-*@head: the pointer to the head of the list
+*@head: pointer to the head of the list
 *
 *Return: void
 */
