@@ -2,9 +2,9 @@
 
 /**
 *pop_listint - deletes the head node of a linked list
-*@head: the head of the list
+*@head: head of the list
 *
-*Return: deleted node data
+*Return: the deleted node data
 */
 
 int pop_listint(listint_t **head)
